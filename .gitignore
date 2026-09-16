@@ -1,0 +1,8 @@
+.DS_Store
+__MACOSX/
+*.o
+*.out
+build/
+cmake-build-*/
+robot_control_log_*.csv
+!data/**/robot_control_log_*.csv
